@@ -1,3 +1,5 @@
+publish_mode: editorial_workflow
+
 backend:
   name: github
   repo: two-first-names/queer-spoonies
@@ -7,15 +9,15 @@ backend:
 media_folder: assets
 
 collections:
-- name: post
-  label: Post
-  folder: posts
+- name: page
+  label: Page
+  folder: pages
   create: true
   fields:
   - label: Layout
     name: layout
     widget: hidden
-    default: page
+    default: post
   - label: Title
     name: title
     widget: string

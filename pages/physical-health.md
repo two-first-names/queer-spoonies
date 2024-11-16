@@ -1,11 +1,7 @@
 ---
-layout: page
+layout: post
 title: Physical Health
-eleventyNavigation:
-  key: Physical Health
 ---
-# Physical Health
-
 ## NHS Healthcare
 - The NHS Constitution for England - <https://www.gov.uk/government/publications/the-nhs-constitution-for-england>
 - e-Referral Service - <https://www.nhs.uk/nhs-services/hospitals/book-an-appointment/>

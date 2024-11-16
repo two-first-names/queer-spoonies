@@ -5,4 +5,4 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
-Hello World!
+Hello World! (I'll write something properly later, okay?)
