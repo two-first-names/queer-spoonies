@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Queer Spoonies - {{ title }}</title>
+		<link rel="stylesheet" href="/assets/main.css">
+	</head>
+	<body>
+    <header>
+      <h1>Queer Spoonies</h1>
+    </header>
+		<div class="container">
+			<nav class="sidebar">
+				{{ collections.all | eleventyNavigation | eleventyNavigationToHtml }}
+			</nav>
+			<main class="content">
+				{{ content }}
+			</main>
+		</div>
+		<footer>
+			<p>Website created by <a href="https://www.engiqueer.net" title="Visit Joe Robert's website (Opens in new window)" target="_blank" rel="noopener noreferrer">Joe Roberts</a>.</p>
+			<p>This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1">Creative Commons Attribution-ShareAlike 4.0 International</a></p>
+		</footer>
+	</body>
+</html>

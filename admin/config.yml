@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: two-first-names/queer-spoonies
+  branch: main
+  base_url: https://decap-proxy.engiqueer.workers.dev
+
+media_folder: assets
+
+collections:
+- name: post
+  label: Post
+  folder: posts
+  create: true
+  fields:
+  - label: Layout
+    name: layout
+    widget: hidden
+    default: page
+  - label: Title
+    name: title
+    widget: string
+  - label: Content
+    name: body
+    widget: markdown
