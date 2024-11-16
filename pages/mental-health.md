@@ -13,9 +13,8 @@ title: Mental Health
 ## Therapy (General)
 
 * Queer therapists - <https://pinktherapy.com/>
-* [foo](https://pinktherapy.com/)
 
-## Anxiety
+## [](https://pinktherapy.com/)Anxiety
 
 * Guided Wim Hof Method Breathing - <https://www.youtube.com/watch?v=tybOi4hjZFQ>
 
