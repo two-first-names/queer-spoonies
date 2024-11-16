@@ -13,6 +13,7 @@ collections:
   label: Page
   folder: pages
   create: true
+  preview_path: pages/{{ slug }}
   fields:
   - label: Layout
     name: layout
