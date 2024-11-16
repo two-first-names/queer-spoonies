@@ -5,6 +5,7 @@ backend:
   repo: two-first-names/queer-spoonies
   branch: main
   base_url: https://decap-proxy.engiqueer.net
+  preview_context: Cloudflare Pages
 
 media_folder: assets
 
