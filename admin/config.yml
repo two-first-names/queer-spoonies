@@ -2,7 +2,7 @@ backend:
   name: github
   repo: two-first-names/queer-spoonies
   branch: main
-  base_url: https://decap-proxy.engiqueer.workers.dev
+  base_url: https://decap-proxy.engiqueer.net
 
 media_folder: assets
 
