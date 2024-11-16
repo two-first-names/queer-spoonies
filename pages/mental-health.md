@@ -13,6 +13,7 @@ title: Mental Health
 ## Therapy (General)
 
 * Queer therapists - <https://pinktherapy.com/>
+* [foo](https://pinktherapy.com/)
 
 ## Anxiety
 
